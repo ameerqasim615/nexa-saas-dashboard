@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import { Activity, ArrowDownRight, ArrowUpRight, Bell, BriefcaseBusiness, ChartNoAxesCombined, ChevronDown, CircleHelp, Command, CreditCard, LayoutDashboard, LogOut, Menu, MoreHorizontal, Plus, Search, Settings, ShieldCheck, Users, X, Zap } from "lucide-react";
+import { Activity, ArrowDownRight, ArrowUpRight, Bell, BriefcaseBusiness, ChartNoAxesCombined, ChevronDown, CircleHelp, Command, CreditCard, Layers3, LayoutDashboard, LogOut, Menu, MoreHorizontal, Plus, Search, Settings, ShieldCheck, Users, X, Zap } from "lucide-react";
 import { Area, AreaChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import type { AppUser } from "@/types";
 
